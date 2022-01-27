@@ -1,4 +1,4 @@
-[牛牛贝拉拉](https://IntelliJerry.github.io/NiuniuBELLA)
+[牛牛贝拉拉](https://IntelliJerry.github.io/NiuniuBELLA/)
 
 
 [演示视频](https://www.bilibili.com/)
