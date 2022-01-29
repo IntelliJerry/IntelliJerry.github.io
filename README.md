@@ -1,7 +1,7 @@
 [牛牛贝拉拉](https://IntelliJerry.github.io/)
 
 
-[演示视频](https://www.bilibili.com/)
+[演示视频](https://www.bilibili.com/video/BV14S4y1L71h?share_source=copy_web)
 
 # NiuniuBELLA
 勇敢大挑战：牛牛贝拉拉，开源自：
